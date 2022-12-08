@@ -289,6 +289,16 @@ footer .main {
   min-height: 100px;
 }
 
+.footer-contact a{
+  color:white;
+  text-decoration: #c2c4c4;
+
+}
+
+.footer-contact a:hover{
+  color: #53b4f5;
+}
+
 .footer-links h4{
   margin-bottom: 10px;
 }
